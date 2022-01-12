@@ -1,0 +1,15 @@
+F:\UniversityProject\University.Service\bin\Debug\netstandard2.1\University.Service.deps.json
+F:\UniversityProject\University.Service\bin\Debug\netstandard2.1\University.Service.dll
+F:\UniversityProject\University.Service\bin\Debug\netstandard2.1\University.Service.pdb
+F:\UniversityProject\University.Service\bin\Debug\netstandard2.1\University.Contract.dll
+F:\UniversityProject\University.Service\bin\Debug\netstandard2.1\University.Db.dll
+F:\UniversityProject\University.Service\bin\Debug\netstandard2.1\University.Contract.pdb
+F:\UniversityProject\University.Service\bin\Debug\netstandard2.1\University.Db.pdb
+F:\UniversityProject\University.Service\obj\Debug\netstandard2.1\University.Service.csproj.AssemblyReference.cache
+F:\UniversityProject\University.Service\obj\Debug\netstandard2.1\University.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\UniversityProject\University.Service\obj\Debug\netstandard2.1\University.Service.AssemblyInfoInputs.cache
+F:\UniversityProject\University.Service\obj\Debug\netstandard2.1\University.Service.AssemblyInfo.cs
+F:\UniversityProject\University.Service\obj\Debug\netstandard2.1\University.Service.csproj.CoreCompileInputs.cache
+F:\UniversityProject\University.Service\obj\Debug\netstandard2.1\University.Service.csproj.CopyComplete
+F:\UniversityProject\University.Service\obj\Debug\netstandard2.1\University.Service.dll
+F:\UniversityProject\University.Service\obj\Debug\netstandard2.1\University.Service.pdb
